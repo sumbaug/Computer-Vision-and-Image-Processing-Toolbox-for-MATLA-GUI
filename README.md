@@ -1,4 +1,4 @@
-# Computer-Vision-and-Image-Processing-Toolbox-for-MATLAB-
+# Computer-Vision-and-Image-Processing-Toolbox-for-MATLAB
 
 * The primary purpose of the CVIPtools development environment is to allow students, faculty, researchers and all users to explore the power of computer processing of digital images.The original CVIPtools is a comprehensive GUI-based software which includes image analysis, enhancement, restoration and compression algorithms. It includes the CVIP-ATAT for algorithm development and analysis and the CVIP-FEPC for performing experiments with large groups of images and multiple combinations of feature extraction and pattern classification parameters. The CVIPlab for C/C++ programmers is a skeleton program that allows for access to all the CVIPtools library functions. The newest addition is the CVIP Toolbox for MATLAB, which also includes a CVIPlab skeleton program for exploration of the Toolbox which contains the Matlab versions of the CVIPtools library functions. a thresholded image, and the execution time of 
 threshold operation.
